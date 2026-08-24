@@ -1358,6 +1358,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Version 2"
+		(exclude_from_sim no)
+		(at 196.85 149.606 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "523be78c-f090-441b-9095-4a30b525e619")
+	)
 	(wire
 		(pts
 			(xy 158.75 157.48) (xy 142.24 157.48)
